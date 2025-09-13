@@ -19,6 +19,7 @@ export function Providers({ children }: { children: ReactNode }) {
         appearance: {
           theme: 'light',
           accentColor: '#6A44BC',
+          logo: 'https://i.postimg.cc/sD7df07H/Royal-Mystery.jpg',
         },
       }}
     >
