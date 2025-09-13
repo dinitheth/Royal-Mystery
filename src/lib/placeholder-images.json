@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "scene-home",
+      "description": "The home screen of the game.",
+      "imageUrl": "https://i.postimg.cc/G2dn3gG6/Home.webp",
+      "imageHint": "castle entrance"
+    },
+    {
+      "id": "scene-intro",
+      "description": "The grand banquet hall where the king was poisoned.",
+      "imageUrl": "https://i.postimg.cc/bwZz459T/1-Intro-Scene-The-Banquet-Hall.webp",
+      "imageHint": "banquet hall"
+    },
+    {
+      "id": "scene-suspect-1",
+      "description": "Interrogation room for the first suspect.",
+      "imageUrl": "https://i.postimg.cc/mrMTgFq1/2-Suspect-Interaction-Scenes.webp",
+      "imageHint": "throne room"
+    },
+    {
+      "id": "scene-suspect-2",
+      "description": "Interrogation room for the second suspect.",
+      "imageUrl": "https://i.postimg.cc/htNSn0Cq/3-Suspect-Interaction-Scenes.webp",
+      "imageHint": "castle interior"
+    },
+    {
+      "id": "scene-suspect-3",
+      "description": "Interrogation room for the third suspect.",
+      "imageUrl": "https://i.postimg.cc/B6BsxfJq/4-Suspect-Interaction-Scenes.webp",
+      "imageHint": "royal chamber"
+    },
+    {
+      "id": "scene-suspect-4",
+      "description": "Interrogation room for the fourth suspect.",
+      "imageUrl": "https://i.postimg.cc/DZTnJwkj/5-Suspect-Interaction-Scenes.webp",
+      "imageHint": "castle study"
+    },
+    {
+      "id": "scene-clue-1",
+      "description": "A dark corner of the castle where a clue is found.",
+      "imageUrl": "https://i.postimg.cc/6q6KcbQC/6-Clue-Discovery-Scene.webp",
+      "imageHint": "castle library"
+    },
+    {
+      "id": "scene-clue-2",
+      "description": "The royal gardens where another clue is discovered.",
+      "imageUrl": "https://i.postimg.cc/rshkPGd3/7-Clue-Discovery-Scene.webp",
+      "imageHint": "castle garden"
+    },
+    {
+      "id": "scene-clue-3",
+      "description": "The sorceress's tower where a cryptic scroll is found.",
+      "imageUrl": "https://i.postimg.cc/6q6KcbQC/6-Clue-Discovery-Scene.webp",
+      "imageHint": "sorcerer tower"
+    },
+    {
+      "id": "scene-misdirection",
+      "description": "A confusing scene with a false lead.",
+      "imageUrl": "https://i.postimg.cc/rygMsThj/8-Misdirection-Scene.webp",
+      "imageHint": "castle corridor"
+    },
+    {
+      "id": "scene-twist",
+      "description": "A scene depicting a major plot twist.",
+      "imageUrl": "https://i.postimg.cc/Wb3jJyCv/9-Mid-Game-Twist.webp",
+      "imageHint": "dramatic reveal"
+    },
+    {
+      "id": "scene-accusation",
+      "description": "The throne room where the final accusation is made.",
+      "imageUrl": "https://i.postimg.cc/QxyDgbZW/10-Final-Accusation-Scene.webp",
+      "imageHint": "courtroom"
+    },
+    {
+      "id": "scene-epilogue",
+      "description": "The final scene revealing the outcome of the investigation.",
+      "imageUrl": "https://i.postimg.cc/xdKS2VJK/11-Resolution-and-Epilogue.webp",
+      "imageHint": "castle sunrise"
+    },
+    {
+      "id": "scene-quiz",
+      "description": "A dimly lit room for a knowledge check.",
+      "imageUrl": "https://i.postimg.cc/PxJNyM5p/Quiz.webp",
+      "imageHint": "study room"
+    }
+  ]
+}
