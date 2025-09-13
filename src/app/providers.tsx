@@ -19,7 +19,6 @@ export function Providers({ children }: { children: ReactNode }) {
         appearance: {
           theme: 'light',
           accentColor: '#6A44BC',
-          logo: 'https://i.postimg.cc/0j3p3bXx/crown-logo.png',
         },
       }}
     >
