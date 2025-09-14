@@ -2,7 +2,7 @@
 
 Welcome, Detective. The kingdom of Eldoria is in turmoil. King Theron has been murdered, and a web of deceit and ambition threatens to unravel the realm. Your sharp mind is our only hope to unmask the killer.
 
-## 👑 About the Game
+## About the Game
 
 Royal Mystery is an interactive detective game where you, as the realm's finest detective, must solve the murder of King Theron. Navigate through a story filled with intriguing suspects, cryptic clues, and unexpected twists. Every choice you make will bring you closer to the truth or deeper into the conspiracy.
 
@@ -14,7 +14,7 @@ Royal Mystery is an interactive detective game where you, as the realm's finest 
 *   **Make Your Accusation:** Once you believe you've solved the case, accuse the suspect. But be warned, a false accusation will have dire consequences for the kingdom.
 *   **On-Chain Scoring:** Your detective skills are rewarded with points that are recorded on the Monad blockchain.
 
-## ✨ Features
+## Features
 
 *   **Engaging Narrative:** A rich story that unfolds with each decision you make.
 *   **Beautiful Artwork:** Immersive, stylized scenes that bring the medieval world to life.
@@ -22,7 +22,7 @@ Royal Mystery is an interactive detective game where you, as the realm's finest 
 *   **Monad Games ID Integration:** Log in with your universal gamer identity and get your score on the leaderboard.
 *   **Dynamic Storytelling:** A story that keeps you guessing until the very end.
 
-## 🛠️ Built With
+## Built With
 
 *   **[Next.js](https://nextjs.org/)** - React Framework for building the user interface.
 *   **[React](https://react.dev/)** - JavaScript library for building user interfaces.
@@ -31,7 +31,7 @@ Royal Mystery is an interactive detective game where you, as the realm's finest 
 *   **[Privy](https://www.privy.io/)** - For seamless and secure user authentication.
 *   **[Viem](https://viem.sh/)** - For interacting with the Monad blockchain.
 
-## 🚀 Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
